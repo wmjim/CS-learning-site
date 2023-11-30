@@ -11,14 +11,6 @@
             "id": "bb499e59cfe3f724",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "301bebdc5119e1c9",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "Rust语言学习/Rust 开发的 Vim 配置.md",
@@ -27,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 493.5
   },
   "right": {
     "id": "4d8aedf570582063",
@@ -116,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rust语言学习/Rust 开发的 Vim 配置.md"
+                "file": "images/926715f30605d2bf8d87765baf6d1c03_MD5.jpeg"
               }
             }
           },
@@ -136,8 +127,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "4d59b90d46be24d6",
@@ -149,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rust语言学习/Rust 开发的 Vim 配置.md",
+                "file": "images/926715f30605d2bf8d87765baf6d1c03_MD5.jpeg",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rust语言学习/Rust 开发的 Vim 配置.md",
+                "file": "images/926715f30605d2bf8d87765baf6d1c03_MD5.jpeg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 516.5
+    "width": 357.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,9 +196,12 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "edfcac8bcc7b5a07",
+  "active": "567b3ca7dffea600",
   "lastOpenFiles": [
+    "Home.md",
     "Rust语言学习/Rust 开发的 Vim 配置.md",
+    "images/926715f30605d2bf8d87765baf6d1c03_MD5.jpeg",
+    "images/Pasted image 20231130233630.png",
     "安装插件.md",
     "Rust语言学习",
     "2023-11-30.md",
