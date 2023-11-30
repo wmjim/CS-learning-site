@@ -14,8 +14,21 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "301bebdc5119e1c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rust 开发的 Vim 配置.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +115,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Rust 开发的 Vim 配置.md"
+              }
             }
           },
           {
@@ -134,6 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Rust 开发的 Vim 配置.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,6 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Rust 开发的 Vim 配置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,8 +206,9 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "bb499e59cfe3f724",
+  "active": "301bebdc5119e1c9",
   "lastOpenFiles": [
+    "Rust 开发的 Vim 配置.md",
     "安装插件.md",
     "Rust语言学习",
     "2023-11-30.md",
