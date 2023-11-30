@@ -132,8 +132,18 @@ Plug 'file:///Users/gmarik/path/to/plugin'
 
 ### vim-plug 命令使用
 
-vim-plug 提供了下面的命令用来管理插件，在 Vim 
+vim-plug 提供了下面的命令用来管理插件，在 Vim 的<mark style="background: #BBFABBA6;">底行模式</mark>下输入如下命令：
 
-| 命令 | 描述 |
-| ---- | ---- |
-|      |      |
+```bash
+:PlugInstall
+```
+
+| 命令                    | 描述                                                                                           |
+| ----------------------- | ---------------------------------------------------------------------------------------------- |
+| `PlugInstall [name...]` | 安装指定`pluginName`的插件。如果没有指定`pluginName`，就安装在`~/.vimrc`配置文件中配置的插件。 |
+| `PlugUpdate [name...]`  | 更新指定`pluginName`的插件。如果没有指定`pluginName`，就更新所有已经安装了的插件。             |
+| `PlugClean`             | 卸载已经安装，但是没有在 `~/.vimrc` 中配置的插件                                               |
+| `PlugStatus`            | 查看插件的状态                                                                                 |
+| `PlugUpgrade`           | 更新 vim-plug 自己                                                                          |
+## 推荐插件
+

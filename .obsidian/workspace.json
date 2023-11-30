@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rust语言学习/Rust 开发的 Vim 配置.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rust语言学习/Rust 开发的 Vim 配置.md"
+                "file": "Home.md"
               }
             }
           },
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rust语言学习/Rust 开发的 Vim 配置.md",
+                "file": "Home.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rust语言学习/Rust 开发的 Vim 配置.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,8 +198,8 @@
   },
   "active": "bb499e59cfe3f724",
   "lastOpenFiles": [
-    "images/installer.gif",
     "Rust语言学习/Rust 开发的 Vim 配置.md",
+    "images/installer.gif",
     "images/installer.gif.crdownload",
     "Home.md",
     "images/carbon.png",
