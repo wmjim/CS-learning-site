@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "92b2cd03694acbb5",
+    "type": "split",
+    "children": [
+      {
+        "id": "855dd5f4f9005934",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "684a8b2647633398",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "安装插件.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7286eb4f0ce0d61a",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7fc0751dff9969c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "edfcac8bcc7b5a07",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5529606bfd0e30c8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5873e873e29afa36",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4d8aedf570582063",
+    "type": "split",
+    "children": [
+      {
+        "id": "031a5d052ede0c05",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a841758f1e40bddd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "安装插件.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7621118c04c03d05",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "安装插件.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5f1d8323e37c48c2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3c234cfb602e6d79",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "安装插件.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "publish:发布更改": false
+    }
+  },
+  "active": "684a8b2647633398",
+  "lastOpenFiles": [
+    "未命名.canvas",
+    "未命名 1.canvas",
+    "安装插件.md"
+  ]
+}
