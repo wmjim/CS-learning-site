@@ -11,12 +11,8 @@
             "id": "bb499e59cfe3f724",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "安装插件.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -106,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "安装插件.md"
-              }
+              "state": {}
             }
           },
           {
@@ -118,9 +112,17 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "f1ac8422b1b9f131",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "4d59b90d46be24d6",
@@ -132,7 +134,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "安装插件.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +150,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "安装插件.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,14 +183,17 @@
       "command-palette:打开命令面板": false,
       "publish:发布更改": false,
       "file-tree-alternative:File Tree Alternative Plugin": false,
-      "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
+      "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "homepage:Open homepage": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
   "active": "bb499e59cfe3f724",
   "lastOpenFiles": [
+    "安装插件.md",
     "Rust语言学习",
     "2023-11-30.md",
-    "安装插件.md",
     "images/carbon.png",
     "images",
     "未命名.canvas",
