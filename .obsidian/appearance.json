@@ -1,5 +1,7 @@
 {
   "accentColor": "",
-  "cssTheme": "Atom",
-  "monospaceFontFamily": "FiraCode Nerd Font Retina"
+  "cssTheme": "Blue Topaz",
+  "monospaceFontFamily": "FiraCode Nerd Font Retina",
+  "theme": "obsidian",
+  "translucency": true
 }

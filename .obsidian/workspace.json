@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "855dd5f4f9005934",
+        "id": "041fd6f1ab8b6799",
         "type": "tabs",
         "children": [
           {
-            "id": "684a8b2647633398",
+            "id": "bb499e59cfe3f724",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -64,6 +64,28 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "9f6f9cd4dd7be456",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "bc18eb790ae9721f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee4dcdcc9567b812",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
         ]
       }
@@ -77,6 +99,31 @@
     "children": [
       {
         "id": "031a5d052ede0c05",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c234cfb602e6d79",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "安装插件.md"
+              }
+            }
+          },
+          {
+            "id": "90e52aaaa903c474",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "4d59b90d46be24d6",
         "type": "tabs",
         "children": [
           {
@@ -118,23 +165,13 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "3c234cfb602e6d79",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "安装插件.md"
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 516.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -144,13 +181,19 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "publish:发布更改": false
+      "publish:发布更改": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "684a8b2647633398",
+  "active": "bb499e59cfe3f724",
   "lastOpenFiles": [
+    "Rust语言学习",
+    "2023-11-30.md",
+    "安装插件.md",
+    "images/carbon.png",
+    "images",
     "未命名.canvas",
-    "未命名 1.canvas",
-    "安装插件.md"
+    "未命名 1.canvas"
   ]
 }
