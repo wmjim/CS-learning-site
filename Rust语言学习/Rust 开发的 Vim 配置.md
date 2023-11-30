@@ -14,6 +14,8 @@ Vim 的插件管理也是有许多种的，而我选择的是 [vim-plug](https:/
 
 vim-plug 是一款轻量级，且功能强大，且易于使用的插件管理器，对我这种喜欢简单的人自是极其友好的。
 
+![[../images/installer.gif]]
+
 ### 安装 vim-plug
 
 **1. 使用 curl 命令下载 vim-plug 源码：**
@@ -102,5 +104,36 @@ Plug 'git://...'
 
 示例：
 
+```bash
+Plug 'git:https://gitee.com/mirrors/youcompleteme.git'
 ```
+
+执行这个指令的时候，首先检测该插件是否已经下载到本地了，如果没有下载， 就会使用 git 下载，下载的方式如下：
+
+```bash
+git -C ~/.vim/plugged clone --recursive https://gitee.com/mirrors/youcompleteme.git
 ```
+
+- `--recursive`是顺便把子模块的代码也一起下载到`~/.vim/plugged/youcompleteme`目录中。
+
+**4. 安装在本地文件系统中的插件**
+
+如果您要安装的插件在本地的文件系统中，那么配置的格式如下：
+
+```bash
+Plug 'file://...'
+```
+
+示例：
+
+```bash
+Plug 'file:///Users/gmarik/path/to/plugin'
+```
+
+### vim-plug 命令使用
+
+vim-plug 提供了下面的命令用来管理插件，在 Vim 
+
+| 命令 | 描述 |
+| ---- | ---- |
+|      |      |
