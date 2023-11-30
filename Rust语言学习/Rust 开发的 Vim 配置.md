@@ -43,7 +43,7 @@ call plug#end()
 
 **1. 安装在 vim-scripts 仓库插件**
 
-```.vimrc
+```bash
 Plug 'PluginName'
 ```
 
@@ -51,7 +51,7 @@ Plug 'PluginName'
 
 示例：
 
-```.vimrc
+```bash
 Plug 'L9'
 ```
 
@@ -63,4 +63,44 @@ git -C ~/.vim/plugged clone --recursive https://github.com/vim-scripts/L9.git
 
 - `--recursive`是顺便把子模块的代码也一起下载到`~/.vim/plugged/L9`目录中。
 
-然后才是安装该插件。要注意的是：安装插件不等于下载插件，安装插件是对该插件资源的管理， 你自己下载下来，放到对应的位置，但是你没有配置该指令，就不会安装，它的功能你也就用不了，这就是插件管理器的作用， 插件管理器不仅仅是下载插件代码的。这个要搞清楚。
+然后才是安装该插件。
+
+> 要注意的是：安装插件不等于下载插件，安装插件是对该插件资源的管理， 你自己下载下来，放到对应的位置，但是你没有配置该指令，就不会安装，它的功能你也就用不了，这就是插件管理器的作用， 插件管理器不仅仅是下载插件代码的。这个要搞清楚。
+
+**2. 安装在 GitHub 仓库种的插件**
+
+如果您要安装的插件在 GitHub 仓库中， 那么，配置的格式如下：
+
+```bash
+Plug 'userName/repoName'
+```
+
+示例：
+
+```bash
+Plug 'tpope/vim-fugitive'
+Plug 'Lokaltog/vim-easymotion'
+Plug 'rstacruz/sparkup', {'rtp': 'vim/'}
+Plug 'tpope/vim-rails.git'
+```
+
+执行这个指令的时候，首先检测该插件是否已经下载到本地了，如果没有下载， 就会使用 git 下载，下载的方式如下：
+
+```bash
+git -C ~/.vim/plugged clone --recursive https://github.com/tpope/vim-fugitive.git
+```
+
+- `--recursive`是顺便把子模块的代码也一起下载到`~/.vim/plugged/vim-fugitive`目录中。
+
+**3. 安装在非 GitHub 仓库，但使用 git 管理的插件**
+
+如果您要安装的插件使用 git 管理的，但是它并不在 GitHub 仓库中， 那么配置的格式如下：
+
+```bash
+Plug 'git://...'
+```
+
+示例：
+
+```
+```
